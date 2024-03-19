@@ -990,7 +990,7 @@ section {
 }
 
 .counts .image {
-  background: url("../img/counts-img.jpg") center center no-repeat;
+  background: url("https://user-uploads-thumbs.shutterstock.com/aws-cloudfront-user-asset-uploads-prod-us-east-1/uploads/06726d00-1181-4782-b095-2344b7f34d04/p/3c9d1683ed8cb0bbc060f3e5303318da11acc109/1710886008304/counts-img/jpg/1710886010/1500x1500/fit/67ec3496d4be75376d1db17b0aca6417e46e4332/counts-img.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -1016,7 +1016,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("https://user-uploads-thumbs.shutterstock.com/aws-cloudfront-user-asset-uploads-prod-us-east-1/uploads/8001f1ba-6921-4bf1-86b0-227643259edc/p/3c9d1683ed8cb0bbc060f3e5303318da11acc109/1710886163714/testimonials-bg/jpg/1710886168/1500x1500/fit/a377391f3c79db0d1701023693a9df190f6f2951/testimonials-bg.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
