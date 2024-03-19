@@ -706,7 +706,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("https://user-uploads-thumbs.shutterstock.com/aws-cloudfront-user-asset-uploads-prod-us-east-1/uploads/4504d90a-e043-4e57-b781-9dd01a8d48a9/p/3c9d1683ed8cb0bbc060f3e5303318da11acc109/1710885583819/cta-bg/jpg/1710885587/1500x1500/fit/2270704cb92ca6ae0739498dc9c1bf6e45d3d14b/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
